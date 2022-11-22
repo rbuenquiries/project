@@ -1,0 +1,6 @@
+2022-11-08 14:37:52 [RMI TCP Connection(361)-127.0.0.1] INFO  : Application shutdown requested.
+2022-11-08 14:37:52 [RMI TCP Connection(361)-127.0.0.1] INFO  : Pausing ProtocolHandler ["http-nio-9095"]
+2022-11-08 14:37:52 [RMI TCP Connection(361)-127.0.0.1] INFO  : Stopping service [Tomcat]
+2022-11-08 14:37:52 [RMI TCP Connection(361)-127.0.0.1] INFO  : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-11-08 14:37:52 [RMI TCP Connection(361)-127.0.0.1] INFO  : Stopping ProtocolHandler ["http-nio-9095"]
+2022-11-08 14:37:52 [RMI TCP Connection(361)-127.0.0.1] INFO  : Destroying ProtocolHandler ["http-nio-9095"]

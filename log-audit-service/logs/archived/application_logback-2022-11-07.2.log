@@ -1,0 +1,6 @@
+2022-11-07 09:39:09 [cluster-ClusterId{value='636884e579037132eb9ec22c', description='null'}-localhost:27017] INFO  : Opened connection [connectionId{localValue:1, serverValue:27}] to localhost:27017
+2022-11-07 09:39:09 [cluster-ClusterId{value='636884e579037132eb9ec22c', description='null'}-localhost:27017] INFO  : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=57740700}
+2022-11-07 09:39:09 [restartedMain] INFO  : LiveReload server is running on port 35729
+2022-11-07 09:39:10 [restartedMain] INFO  : Starting ProtocolHandler ["http-nio-9092"]
+2022-11-07 09:39:10 [restartedMain] WARN  : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9092 is already in use
+2022-11-07 09:39:10 [restartedMain] INFO  : Pausing ProtocolHandler ["http-nio-9092"]

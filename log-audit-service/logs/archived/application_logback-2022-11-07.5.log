@@ -1,0 +1,8 @@
+2022-11-07 09:39:53 [cluster-rtt-ClusterId{value='636885113dc29347dd16e379', description='null'}-localhost:27017] INFO  : Opened connection [connectionId{localValue:2, serverValue:28}] to localhost:27017
+2022-11-07 09:39:53 [cluster-ClusterId{value='636885113dc29347dd16e379', description='null'}-localhost:27017] INFO  : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=31546200}
+2022-11-07 09:39:54 [restartedMain] INFO  : LiveReload server is running on port 35729
+2022-11-07 09:39:55 [restartedMain] INFO  : Starting ProtocolHandler ["http-nio-9095"]
+2022-11-07 09:39:55 [restartedMain] INFO  : Tomcat started on port(s): 9095 (http) with context path ''
+2022-11-07 09:39:55 [restartedMain] INFO  : Started LogAuditServiceApplication in 4.897 seconds (JVM running for 6.211)
+2022-11-07 09:42:42 [http-nio-9095-exec-2] INFO  : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-07 09:42:42 [http-nio-9095-exec-2] INFO  : Initializing Servlet 'dispatcherServlet'

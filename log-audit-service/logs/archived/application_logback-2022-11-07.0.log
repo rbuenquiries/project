@@ -1,0 +1,7 @@
+2022-11-07 09:39:05 [background-preinit] INFO  : HV000001: Hibernate Validator 6.2.5.Final
+2022-11-07 09:39:05 [restartedMain] INFO  : Starting LogAuditServiceApplication using Java 1.8.0_201 on DESKTOP-OQHO3P0 with PID 3064 (C:\Users\Welcome\Downloads\log-audit-service\log-audit-service\target\classes started by Welcome in C:\Users\Welcome\Downloads\log-audit-service\log-audit-service)
+2022-11-07 09:39:05 [restartedMain] INFO  : No active profile set, falling back to 1 default profile: "default"
+2022-11-07 09:39:05 [restartedMain] INFO  : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-07 09:39:05 [restartedMain] INFO  : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-07 09:39:06 [restartedMain] INFO  : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-11-07 09:39:06 [restartedMain] INFO  : Finished Spring Data repository scanning in 123 ms. Found 1 MongoDB repository interfaces.
